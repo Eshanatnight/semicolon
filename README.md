@@ -43,8 +43,6 @@ Come Back tomorrow for the next episode of the show "What is Kells Breaking Now!
 
 P.S. Not all the 597 Warnings are from my code Most of them are from the llvm branch I'm using 😌
 
-# LLVM #Compiler #Interpreter #compiler #compilerdesign #llvm #VisualStudio #MSVC #VisualStudioCode
-
 ## Day 3
 
 Yeah I am a day late. I know. I am sorry to the 3 people who are following my LLVM journey. love you guys 💌. I couldn't get out of bed and do anything, curses depression 🥹.
