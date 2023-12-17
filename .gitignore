@@ -1,0 +1,12 @@
+build
+bin
+out
+CMakeFiles
+*.log
+.vs
+.vscode
+*.sln
+*.vcxproj*
+vendor
+example
+vendor

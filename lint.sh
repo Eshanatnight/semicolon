@@ -1,0 +1,1 @@
+clang-tidy --config-file=./.clang-tidy -p ./build/compile_commands.json src/**/*.cpp src/**/*.h
