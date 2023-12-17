@@ -60,8 +60,6 @@ I started this "build something cool" in October as a part of my #Hacktober. For
 
 See you guys in Day 4!
 
-# HactoberFest #Clang #C++ #LLVM #llvm #gcc #MSVC #GCC #GNU #VisualStudio #CMake
-
 ## Day 4
 
 After quite literally getting my butt kicked from mental blocks and "the big sad" I come to you with the progress on Semicolon. After flighting to link everything properly, I was left with exactly 2 unresolved external symbols, and what feels like a lifetime, I finally figured it out I had defined an extern variable in the header file but never instantiated it. Still making Day 1 mistakes.
