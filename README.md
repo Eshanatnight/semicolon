@@ -80,8 +80,6 @@ Quality of Life Todos:
 
 I'll start on branching next!
 
-# CMake #C++ #LLVM #CLANG #Compiler
-
 ## Day 5
 
 Updates: I came back to Kolkata to spend some time at home and just calming my mind from all the stuff I
